@@ -1,0 +1,56 @@
+{
+  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+  "bottomRow": 13,
+  "counterClockwise": true,
+  "counterClosewise": false,
+  "dynamicBindingPathList": [
+    {
+      "key": "progress"
+    },
+    {
+      "key": "fillColor"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "showResult"
+    },
+    {
+      "key": "isVisible"
+    },
+    {
+      "key": "fillColor"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "fillColor": "{{ currentItem.Credit_Balance_Remaining_percentage < 20 ? \"#FF0000\" : \"#00FF00\" }}\n",
+  "isCanvas": false,
+  "isIndeterminate": false,
+  "isLoading": false,
+  "isVisible": "true",
+  "key": "6eggsbzskn",
+  "leftColumn": 17,
+  "mobileBottomRow": 27,
+  "mobileLeftColumn": 28,
+  "mobileRightColumn": 56,
+  "mobileTopRow": 23,
+  "needsErrorInfo": false,
+  "originalBottomRow": 34,
+  "originalTopRow": 23,
+  "parentColumnSpace": 7.8154296875,
+  "parentId": "siwel7nbjy",
+  "parentRowSpace": 10,
+  "progress": "{{currentItem.Credit_Balance_Remaining_percentage}}",
+  "progressType": "circular",
+  "renderMode": "CANVAS",
+  "responsiveBehavior": "fill",
+  "rightColumn": 25,
+  "showResult": "true",
+  "steps": 1,
+  "topRow": 0,
+  "type": "PROGRESS_WIDGET",
+  "version": 1,
+  "widgetId": "1lbldlmtn6",
+  "widgetName": "Progress1Copy"
+}

@@ -1,0 +1,36 @@
+{
+  "borderRadius": "0px",
+  "bottomRow": 9,
+  "boxShadow": "none",
+  "dynamicBindingPathList": [
+    {
+      "key": "text"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "System Default",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 22,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "originalBottomRow": 63,
+  "originalTopRow": 59,
+  "overflow": "NONE",
+  "parentColumnSpace": 4.078125,
+  "parentId": "l1i8pdr9mz",
+  "parentRowSpace": 10,
+  "rightColumn": 63,
+  "text": "{{ data_table.selectedRow.Periodicity + \" months\" }}\n",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 5,
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "gs5ixe2jsv",
+  "widgetName": "Text8Copy1"
+}

@@ -1,0 +1,36 @@
+{
+  "borderRadius": "0px",
+  "bottomRow": 4,
+  "boxShadow": "none",
+  "dynamicBindingPathList": [
+    {
+      "key": "text"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicTriggerPathList": [],
+  "fontFamily": "System Default",
+  "fontSize": "0.875rem",
+  "fontStyle": "",
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 22.349206349206348,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "originalBottomRow": 52,
+  "originalTopRow": 48,
+  "overflow": "NONE",
+  "parentColumnSpace": 4.4296875,
+  "parentId": "8lmojb4lhc",
+  "parentRowSpace": 10,
+  "rightColumn": 64,
+  "text": "{{data_table.selectedRow.Transaction_Fee}}",
+  "textAlign": "LEFT",
+  "textColor": "#231F20",
+  "topRow": 0,
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "u94wo41f22",
+  "widgetName": "Text8Copy3"
+}

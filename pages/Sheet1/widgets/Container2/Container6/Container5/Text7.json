@@ -1,0 +1,46 @@
+{
+  "backgroundColor": "#ffffff",
+  "borderColor": "#ffffff",
+  "borderRadius": "0px",
+  "bottomRow": 11,
+  "boxShadow": "none",
+  "dynamicBindingPathList": [
+    {
+      "key": "text"
+    },
+    {
+      "key": "textColor"
+    }
+  ],
+  "dynamicHeight": "FIXED",
+  "dynamicPropertyPathList": [
+    {
+      "key": "textColor"
+    }
+  ],
+  "dynamicTriggerPathList": [],
+  "fontFamily": "System Default",
+  "fontSize": "1rem",
+  "fontStyle": "BOLD",
+  "isLoading": false,
+  "isVisible": true,
+  "labelTextSize": "0.875rem",
+  "leftColumn": 45,
+  "maxDynamicHeight": 9000,
+  "minDynamicHeight": 4,
+  "originalBottomRow": 33,
+  "originalTopRow": 22,
+  "overflow": "NONE",
+  "parentColumnSpace": 7.054412841796875,
+  "parentId": "1o5vbnsc61",
+  "parentRowSpace": 10,
+  "rightColumn": 64,
+  "text": "{{\"₹\" + \" \"+data_table.selectedRow.Credit_Balance_Remaining}}",
+  "textAlign": "LEFT",
+  "textColor": "{{ data_table.selectedRow.Credit_Balance_Remaining_percentage < 20 ? \"#7f1d1d\" : \"#14532d\" }}\n",
+  "topRow": 0,
+  "type": "TEXT_WIDGET",
+  "version": 1,
+  "widgetId": "8ffgeul4nz",
+  "widgetName": "Text7"
+}
